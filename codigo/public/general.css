@@ -1,0 +1,44 @@
+#sidebar{
+    background-color: white;
+    
+
+}
+#sidebar  span{
+    color: black;
+}
+#sidebar  p{
+    color: black;
+}
+#naved{
+    background-color: white;
+
+}
+#im{
+    object-fit: cover;
+    width: 100%;
+}
+#contenedor_principal{
+    background-color: orange
+    ;
+    width: 100%;
+}
+#div_opciones_principal{
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+#card_body_principal_imagen{
+    background-color: orange
+    ;
+    width: calc(100%);
+    height: 100%;
+    border-radius: 10px;
+}
+#card_body_principal_imagen img{
+    object-fit: cover;
+    width: 100%;
+    height: 100%;
+    border-radius: 10px;
+}

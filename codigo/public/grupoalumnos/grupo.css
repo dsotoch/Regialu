@@ -1,0 +1,37 @@
+img{
+    object-fit: cover;
+    width: 100%;
+    height: 100px;
+}
+#tabla-alu {
+    width: 100%;
+}
+#tabla-alu th{
+    background-color: black;
+    color: white;
+}
+#cantidad-sin-grupo{
+    color: red;
+    font-weight: bold;
+}
+#cantidad-grupos{
+    color: red;
+    font-weight: bold;
+}
+#numero-de-alumnos{
+    color: cornflowerblue;
+    font-weight: bold;
+    font-size: medium;
+}
+#order-listing10 th{
+   background-color: black;
+   color: white;
+}
+.modal-header{
+    background-color: red;
+    color: white;
+}
+#tabla_detalles th{
+    background-color: black;
+    color: white;
+}

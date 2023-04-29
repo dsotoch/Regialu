@@ -1,0 +1,12 @@
+#icon-regi{
+    object-fit: contain;
+    max-width: 100%;
+    max-height: 300px;
+  }
+.card-footer{
+    background-color: black !important;
+}
+.card-title{
+    background-color: black !important;
+    color: white !important;
+}

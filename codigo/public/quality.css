@@ -1,0 +1,60 @@
+.payment-logo{
+  width: 100px;
+  margin-left: 4px;
+  border-radius: 5px;
+}
+#fondo{
+  width: 100%;
+  height: 100%;
+}
+#logo{
+  margin-left: 20px;
+  border-radius: 5px;
+
+}
+.navbar ul li{
+  font-weight: bold;
+}
+img{
+  object-fit: cover;
+  width: 100%;
+}
+#servicios{
+  object-fit: cover;
+ margin-bottom: 300px;
+
+}
+iframe{
+  object-fit: cover;
+}
+
+#inicio{
+  object-fit: cover;
+ margin-bottom: 300px;
+
+}
+.color-red{
+  color: red;
+  background-color: antiquewhite;
+  
+}
+.color-green{
+  color: green;
+  background-color: rgb(202, 238, 118);
+  
+}
+.portafolio-titulos{
+  align-items: center;
+  text-align: center;
+}
+.color-red i{
+  color: black;
+}
+#regi-img{
+  object-fit: cover;
+  width: 200px;
+  height: 200px;
+  
+}
+
+
