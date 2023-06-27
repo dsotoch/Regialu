@@ -45,7 +45,7 @@ Route::get('/Soporte', function () {
 Route::get('/Servicios', function () {
     return view('servicios');
 })->name('servicios');
-Route::get('/RegialuSit', function () {
+Route::get('RegialuSit', function () {
     return view('principal');
 })->name('principal');
 

@@ -28,7 +28,7 @@
                 <h4 class="header-subtitle">Hola, Mi Nombre es</h4>
                 <h1 class="header-title">Diego Soto</h1>
                 <h6 class="header-mono">Full-Stack | Developer</h6>
-                <button class="btn btn-primary btn-rounded"><i class="ti-cloud pr-2"></i>Quality Code Crafters</button>
+                <button class="btn btn-primary btn-rounded"><i class="ti-cloud pr-2"></i>Viru Tec</button>
             </div>
         </div>
     </header>
@@ -52,7 +52,7 @@
                 <ul class="navbar-nav brand">
                     <img src="{{asset('johndoe/public_html/assets/imgs/icon.jpeg')}}" alt="" class="brand-img">
                     <li class="brand-txt">
-                        <h5 class="brand-title">Diego Soto-QualityCodeCrafters</h5>
+                        <h5 class="brand-title">Diego Soto-ViruTec</h5>
                         <div class="brand-subtitle">Full-Stack | Developer</div>
                     </li>
                 </ul>
@@ -75,7 +75,7 @@
             <div class="col-lg-4 about-card">
                 <h3 class="font-weight-light">Quiénes somos?</h3>
                 <span class="line mb-5"></span>
-                <h5 class="mb-3">"Quality Code Crafters"</h5>
+                <h5 class="mb-3">"VIRU TEC"</h5>
                 <h6 class="mb-3 color-red btn-icon-text">Servicios de software en la nube <i class="ti-world btn-icon-prepend"></i>
                 </h6>
                 <p class="mt-20">Somos
@@ -109,7 +109,52 @@
             <div class="col-lg-4 about-card">
                 <h3 class="font-weight-light">Servicios Personales</h3>
                 <span class="line mb-5"></span>
-                <img src="{{asset('imagenes/principal/banner.png')}}" alt="">
+
+                <ul>
+                    <li><p>Desarrollo de aplicaciones: Puedo crear aplicaciones de software personalizadas para diferentes plataformas,
+                        como aplicaciones de escritorio, aplicaciones web o aplicaciones móviles.</p></li>
+                    <br>
+                    <li><p>Desarrollo de sitios web: Puedo diseñar y desarrollar sitios web estáticos o dinámicos,
+                        utilizando lenguajes de programación como HTML, CSS, jQuery, PHP, Python, entre otros,
+                        y frameworks como Laravel, Django.</p></li>
+                    <br>
+                    <li>
+                        <p>Desarrollo de bases de datos: Puedo diseñar y administrar bases de datos eficientes
+                        utilizando sistemas de gestión de bases de datos como MySQL, PostgreSQL, SQLServer.</p>
+                    </li>
+                    <br>
+                    <li>
+                   <p> Integración de sistemas: Puedo integrar diferentes sistemas o 
+                    componentes de software para que funcionen juntos de manera eficiente, utilizando APIs, servicios web.</p>
+                    </li>
+                    <br>
+                    <li>
+                    <p>Consultoría y asesoramiento técnico: 
+                    Puedo brindar orientación y asesoramiento sobre tecnologías y mejores prácticas de desarrollo.</p>
+                    </li>
+                    <hr>
+                    <h6 class="alert-danger">Tareas Academicas</h6>
+                    <br>
+                    <li>
+                        <p>Desarrollo de software</p>
+                    </li>
+                    <li>
+                        <p>Resolución de problemas de programación</p>
+                    </li>
+                    <li>
+                        <p>Tutoría y enseñanza de programación</p>
+                    </li>
+                    <li>
+                        <p>Revisión de código y debugging</p>
+                    </li>
+                    <li>
+                        <p>Implementación de algoritmos </p>
+                    </li>
+                    <li>
+                        <p>Integración de API y servicios web </p>
+                    </li>
+                    
+                </ul>
                 <hr>
                 <button class="btn bg-dark w-lg"> <a href="https://api.whatsapp.com/send?phone=916715991" class="btn btn-success"><i class="fab fa-whatsapp"></i> Contactar para Resolucion de Tarea o Proyecto</a>
 
@@ -182,7 +227,7 @@
                             <div class="progress mb-3">
                                 <div class="progress-bar bg-success" role="progressbar" style="width: 50%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
                             </div>
-                            <h6>JavaScript</h6>
+                            <h6>jQuery</h6>
                             <div class="progress mb-3">
                                 <div class="progress-bar bg-success" role="progressbar" style="width: 50%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
                             </div>
@@ -531,7 +576,7 @@
     <section class="section" id="blog">
         <section class="section" id="service">
             <div class="container">
-                <h2 class="mb-5 pb-4"><span class="text-danger"></span> Servicios de Quality Code Crafters</h2>
+                <h2 class="mb-5 pb-4"><span class="text-danger"></span> Servicios de Viru Tec</h2>
                 <div class="row">
                     <div class="col-md-12 col-sm-6">
                         <div class="card mb-5">
