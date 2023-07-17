@@ -156,7 +156,7 @@
 
                 </ul>
                 <hr>
-                <button class="btn bg-dark w-lg"> <a href="https://api.whatsapp.com/send?phone=916715991" class="btn btn-success"><i class="fab fa-whatsapp"></i> Contactar para Resolucion de Tarea o Proyecto</a>
+                <button class="btn bg-dark w-lg"> <a href="https://api.whatsapp.com/send?phone=51916715991" class="btn btn-success"><i class="fab fa-whatsapp"></i> Contactar para Resolucion de Tarea o Proyecto</a>
 
 
             </div>
@@ -371,7 +371,7 @@
     <section class="section bg-dark py-5">
         <div class="container text-center">
             <h2 class="text-light mb-5 font-weight-normal">Estoy disponible para FreeLance</h2>
-            <button class="btn bg-primary w-lg"> <a href="https://api.whatsapp.com/send?phone=916715991" class="btn btn-success"><i class="fab fa-whatsapp"></i> Contactar por WhatsApp</a>
+            <button class="btn bg-primary w-lg"> <a href="https://api.whatsapp.com/send?phone=51916715991" class="btn btn-success"><i class="fab fa-whatsapp"></i> Contactar por WhatsApp</a>
             </button>
         </div>
     </section>
@@ -754,7 +754,7 @@
                             <div class="col-10 ">
                                 <h6 class="d-inline">WhatsApp : <br> <span class="text-muted">+ (51) 916715991</span></h6>
 
-                                <a href="https://api.whatsapp.com/send?phone=916715991" class="btn btn-success"><i class="fab fa-whatsapp"></i> Contactar por WhatsApp</a>
+                                <a href="https://api.whatsapp.com/send?phone=51916715991" class="btn btn-success"><i class="fab fa-whatsapp"></i> Contactar por WhatsApp</a>
 
                             </div>
                         </div>
