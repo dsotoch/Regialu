@@ -40,7 +40,7 @@ Route::get('/', function () {
 
 Route::get('/RegialuSit', function () {
     return view('principal');
-})->name('principal');
+})->name('regialu');
 Route::controller(ControllerUsuarioLogin::class)->prefix('Login')->group(function () {
     Route::post('GuardarUsuario', 'crear_usuario');
     Route::get('Registrarse', 'vista_registrarse')->name('register');
