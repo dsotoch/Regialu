@@ -34,21 +34,13 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
+Route::get('/', function () {
+    return view('welcome');
+});
 
-Route::get('/home', function () {
-    return view('home');
-})->name('home');
-
-Route::get('/Soporte', function () {
-    return view('contacto');
-})->name('soporte');
-Route::get('/Servicios', function () {
-    return view('servicios');
-})->name('servicios');
-Route::get('RegialuSit', function () {
+Route::get('/RegialuSit', function () {
     return view('principal');
 })->name('principal');
-
 Route::controller(ControllerUsuarioLogin::class)->prefix('Login')->group(function () {
     Route::post('GuardarUsuario', 'crear_usuario');
     Route::get('Registrarse', 'vista_registrarse')->name('register');

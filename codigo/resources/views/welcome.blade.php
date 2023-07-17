@@ -28,7 +28,7 @@
                 <h4 class="header-subtitle">Hola, Mi Nombre es</h4>
                 <h1 class="header-title">Diego Soto</h1>
                 <h6 class="header-mono">Full-Stack | Developer</h6>
-                <button class="btn btn-primary btn-rounded"><i class="ti-cloud pr-2"></i>Viru Tec</button>
+                <a class="btn btn-primary btn-rounded" target="_blank" href="https://viru-tec.com"><i class="ti-cloud pr-2"></i>Viru Tec</a>
             </div>
         </div>
     </header>
@@ -60,9 +60,6 @@
                     <li class="nav-item">
                         <a href="#portfolio" class="nav-link">Portafolio</a>
                     </li>
-                    <li class="nav-item">
-                        <a href="#blog" class="nav-link">Servicios</a>
-                    </li>
                     <li class="nav-item last-item">
                         <a href="#contact" class="nav-link">Contacto</a>
                     </li>
@@ -73,22 +70,18 @@
     <div class="container-fluid">
         <div id="about" class="row about-section">
             <div class="col-lg-4 about-card">
-                <h3 class="font-weight-light">Quiénes somos?</h3>
+                <h3 class="font-weight-light">Quien Soy ?</h3>
                 <span class="line mb-5"></span>
-                <h5 class="mb-3">"VIRU TEC"</h5>
-                <h6 class="mb-3 color-red btn-icon-text">Servicios de software en la nube <i class="ti-world btn-icon-prepend"></i>
+                <h5 class="mb-3">¡Bienvenido a mi portafolio! </h5>
+                <h6 class="mb-3 color-red btn-icon-text"><i class="ti-world btn-icon-prepend"></i>
                 </h6>
-                <p class="mt-20">Somos
-                    una empresa dedicada a proporcionar soluciones de software de alta calidad
-                    que se ejecutan en la nube. Nuestros servicios en la nube son escalables y
-                    flexibles, lo que significa que podemos adaptarnos a las necesidades de su
-                    negocio.
-                    Nos esforzamos por mantener el costo bajo, pero no comprometemos la calidad
-                    de nuestro trabajo.
-                    Explora nuestro sitio web para conocer más sobre nuestros servicios en la
-                    nube de software y cómo podemos ayudarte a llevar tu negocio al siguiente
-                    nivel. Si tienes alguna pregunta, no dudes en ponerte en contacto con
-                    nosotros. ¡Estamos aquí para ayudarte!</p>
+                <p class="mt-20">Soy Diego Soto, un estudiante de Ingeniería de Sistemas en el noveno ciclo de mi carrera. A lo largo de mi trayectoria académica, he adquirido conocimientos sólidos en diversos campos de la ingeniería de sistemas y he trabajado en proyectos prácticos que demuestran mi habilidad para aplicar estos conocimientos en situaciones reales.
+
+                    Durante mis estudios, he desarrollado una sólida base en áreas clave de la ingeniería de sistemas, como programación, análisis de sistemas, bases de datos, redes y seguridad informática. He trabajado en proyectos individuales y en equipo que me han permitido aplicar estos conocimientos de manera efectiva y resolver problemas complejos.
+
+                    Además, he tenido la oportunidad de adquirir experiencia práctica a través de pasantías y proyectos extracurriculares. Por ejemplo, participé en un proyecto de desarrollo de software para una organización sin fines de lucro, donde colaboré con un equipo multidisciplinario para diseñar y desarrollar una aplicación web que mejoró la eficiencia de sus procesos internos.
+
+                    En mi portafolio, encontrarás ejemplos de los proyectos en los que he trabajado, así como muestras de mi código y documentación técnica. Estos ejemplos ilustran mi capacidad para aplicar los conocimientos teóricos en la práctica y resolver problemas de manera eficiente y creativa.</p>
 
             </div>
             <div class="col-lg-4 about-card">
@@ -111,30 +104,37 @@
                 <span class="line mb-5"></span>
 
                 <ul>
-                    <li><p>Desarrollo de aplicaciones: Puedo crear aplicaciones de software personalizadas para diferentes plataformas,
-                        como aplicaciones de escritorio, aplicaciones web o aplicaciones móviles.</p></li>
+                    <li>
+                        <p>Desarrollo de aplicaciones: Puedo crear aplicaciones de software personalizadas para diferentes plataformas,
+                            como aplicaciones de escritorio, aplicaciones web o aplicaciones móviles.</p>
+                    </li>
                     <br>
-                    <li><p>Desarrollo de sitios web: Puedo diseñar y desarrollar sitios web estáticos o dinámicos,
-                        utilizando lenguajes de programación como HTML, CSS, jQuery, PHP, Python, entre otros,
-                        y frameworks como Laravel, Django.</p></li>
+                    <li>
+                        <p>Desarrollo de sitios web: Puedo diseñar y desarrollar sitios web estáticos o dinámicos,
+                            utilizando lenguajes de programación como HTML, CSS, jQuery, PHP, Python, entre otros,
+                            y frameworks como Laravel, Django.</p>
+                    </li>
                     <br>
                     <li>
                         <p>Desarrollo de bases de datos: Puedo diseñar y administrar bases de datos eficientes
-                        utilizando sistemas de gestión de bases de datos como MySQL, PostgreSQL, SQLServer.</p>
+                            utilizando sistemas de gestión de bases de datos como MySQL, PostgreSQL, SQLServer.</p>
                     </li>
                     <br>
                     <li>
-                   <p> Integración de sistemas: Puedo integrar diferentes sistemas o 
-                    componentes de software para que funcionen juntos de manera eficiente, utilizando APIs, servicios web.</p>
+                        <p> Integración de sistemas: Puedo integrar diferentes sistemas o
+                            componentes de software para que funcionen juntos de manera eficiente, utilizando APIs, servicios web.</p>
                     </li>
                     <br>
                     <li>
-                    <p>Consultoría y asesoramiento técnico: 
-                    Puedo brindar orientación y asesoramiento sobre tecnologías y mejores prácticas de desarrollo.</p>
+                        <p>Consultoría y asesoramiento técnico:
+                            Puedo brindar orientación y asesoramiento sobre tecnologías y mejores prácticas de desarrollo.</p>
                     </li>
                     <hr>
                     <h6 class="alert-danger">Tareas Academicas</h6>
                     <br>
+                    <li>
+                        <p>Adminstración de Servidores RedHat & Centos </p>
+                    </li>
                     <li>
                         <p>Desarrollo de software</p>
                     </li>
@@ -153,7 +153,7 @@
                     <li>
                         <p>Integración de API y servicios web </p>
                     </li>
-                    
+
                 </ul>
                 <hr>
                 <button class="btn bg-dark w-lg"> <a href="https://api.whatsapp.com/send?phone=916715991" class="btn btn-success"><i class="fab fa-whatsapp"></i> Contactar para Resolucion de Tarea o Proyecto</a>
@@ -192,7 +192,20 @@
 
                             <hr>
                             <h6 class="title text-danger">2023 </h6>
-                            <P>Software como Servicio: RegialuSit-PHP*Laravel*PayPal</P>
+                            <a href="https://viru-tec.com/servicios-4" target="_blank">
+                                <P>Software como Servicio: RegialuSit-PHP*Laravel*PayPal</P>
+                            </a>
+                            <hr>
+                            <h6 class="title text-danger">2023 </h6>
+                            <a href="https://viru-tec.com/servicios-4" target="_blank">
+                                <P>Software como Servicio: Bodegest-PHP*Laravel*OpenPay</P>
+                            </a>
+
+                            <hr>
+                            <h6 class="title text-danger">2023 </h6>
+                            <a href="https://viru-tec.com/product/yape-payments/" target="_blank">
+                                <P>App para Android: YapePayments-Kotlin</P>
+                            </a>
 
                         </div>
                     </div>
@@ -263,6 +276,14 @@
                             <h6>PostGreSQL</h6>
                             <div class="progress mb-3">
                                 <div class="progress-bar bg-dark" role="progressbar" style="width: 50%" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100"></div>
+                            </div>
+                            <h6>Kotlin</h6>
+                            <div class="progress mb-3">
+                                <div class="progress-bar bg-orange" role="progressbar" style="width: 30%" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100"></div>
+                            </div>
+                            <h6>Flutter</h6>
+                            <div class="progress mb-3">
+                                <div class="progress-bar bg-orange" role="progressbar" style="width: 30%" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100"></div>
                             </div>
                             <h6>Redes y Comunicaciones</h6>
                             <div class="progress mb-3">
@@ -373,6 +394,9 @@
                     <a href="#" data-filter=".web">
                         Desarrollos Web
                     </a>
+                    <a href="#" data-filter=".android">
+                        Desarrollos Android
+                    </a>
                 </div>
                 <div class="portfolio-container">
                     <div class="col-md-12 col-lg-12 cartas">
@@ -418,8 +442,6 @@
 
                         </div>
                     </div>
-
-
                     <div class="col-md-12 col-lg-12 certificados">
                         <div class="portfolio-item">
                             <div class="card">
@@ -436,6 +458,12 @@
                                         <div class="carousel-inner">
                                             <div class="carousel-item active">
                                                 <img class="d-block w-100" src="{{asset('imagenes/certificados/py_page-0001.jpg')}}" alt="">
+                                                <div class="carousel-caption d-none d-md-block">
+
+                                                </div>
+                                            </div>
+                                            <div class="carousel-item">
+                                                <img class="d-block w-100" src="{{asset('imagenes/certificados/redhat.png')}}" alt="">
                                                 <div class="carousel-caption d-none d-md-block">
 
                                                 </div>
@@ -567,44 +595,49 @@
 
                         </div>
                     </div>
+                    <div class="col-md-6 col-lg-6 web">
+                        <div class="portfolio-item">
+                            <div class="card">
+                                <div class="card-title">
+                                    <h5 class="color-red portafolio-titulos">BodeGest-PHP(Laravel-OpenPay)</h5>
+                                </div>
+                                <div class="card-body">
+                                    <p class="subtitle mb-3">Bodegest es una solución de gestión de ventas diseñada para
+                                        bodegas que simplifica y optimiza los procesos de venta, control de inventario y facturación. Al utilizar este sistema, las bodegas pueden mejorar su eficiencia operativa, aumentar su productividad y ofrecer un mejor servicio a sus clientes.
+                                        El sistema también permite generar informes y estadísticas de ventas, lo que brinda a los propietarios de la bodega una visión completa del desempeño del negocio. Estos informes pueden incluir datos sobre las ventas diarias, semanales o mensuales, los productos más vendidos, los clientes frecuentes y otros indicadores clave que ayudan a tomar
+                                        decisiones informadas para mejorar la rentabilidad del negocio.</p>
+                                </div>
+                            </div>
+
+                        </div>
+                    </div>
+                    <div class="col-md-6 col-lg-6 android">
+                        <div class="portfolio-item">
+                            <div class="card">
+                                <div class="card-title ">
+                                    <h5 class="portafolio-titulos color-amarillo">YapePayments-Android(Kotlin)</h5>
+                                </div>
+                                <div class="card-body">
+                                    <p class="subtitle mb-3 ">La aplicación "Yape Payments Listener" es una solución diseñada para integrar la plataforma de pagos móviles Yape con otros sistemas o servicios. Esta aplicación actúa como un intermediario entre Yape y el sistema receptor de las transacciones,
+                                        permitiendo recibir y procesar los datos de las transacciones en tiempo real.
+
+                                        La funcionalidad principal de la aplicación es escuchar las transacciones realizadas a través de Yape y enviar los detalles de
+                                        esas transacciones a través de una URL específica en formato JSON. Estos datos JSON contienen información relevante sobre la transacción, como el monto, el identificador único, el nombre del comercio, la fecha y otros detalles pertinentes.</p>
+                                </div>
+                            </div>
+
+                        </div>
+                    </div>
                 </div>
             </div>
         </div>
     </section>
     <!-- End of portfolio section -->
 
-    <section class="section" id="blog">
-        <section class="section" id="service">
-            <div class="container">
-                <h2 class="mb-5 pb-4"><span class="text-danger"></span> Servicios de Viru Tec</h2>
-                <div class="row">
-                    <div class="col-md-12 col-sm-6">
-                        <div class="card mb-5">
-                            <div class="card-header has-icon">
-                                <i class="ti-vector text-danger" aria-hidden="true"></i>
-                            </div>
-                            <div class="card-body px-4 py-3">
-                                <h5 class="mb-3 card-title text-dark">RegialuSit</h5>
-                                <P class="subtitle">Sistema de Gestión de Alumnos Diseñado para
-                                    facilitar
-                                    la gestión de los Docentes en los
-                                    procesos académicos y administrativos relacionados con los estudiantes en una institución educativa..</P>
-                                <img id="regi-img" src="{{asset('imagenes/logo.png')}}" alt="">
-                                <button class="btn btn-success btn-icon-text" id="btn-detalles-regialu" data-toggle="modal" data-target="#my-modal"><i class="ti-notepad btn-icon-prepend"></i> Ver Detalles</button>
-                            </div>
-                        </div>
-                    </div>
 
-
-
-                </div>
-            </div>
-        </section>
-
-    </section>
     <section class="section bg-custom-gray" id="price">
         <div class="container">
-            <h1 class="mb-5"><span class="text-danger">Precios</span> de Todos los Servicios</h1>
+            <h1 class="mb-5"><span class="text-danger">Precios</span></h1>
             <div class="row align-items-center">
 
 
@@ -614,10 +647,10 @@
                             <h3 class="price-card-title">Precios en Oferta Desde </h3>
                             <div class="price-card-cost">
                                 <sup class="ti-money"></sup>
-                                <span class="num">0.26</span>
+                                <span class="num">5</span>
                             </div>
                             <ul class="list">
-                                <li class="list-item"> <span class="text-muted">Diarios</span></li>
+                                <li class="list-item"> <span class="text-muted">por Trabajo</span></li>
 
                             </ul>
 
@@ -778,131 +811,7 @@
 
         </div>
     </footer>
-    <div id="my-modal" class="modal fade" tabindex="-1" role="dialog" aria-labelledby="my-modal-title" aria-hidden="true">
-        <div class="modal-dialog modal-lg" role="document">
-            <div class="modal-content">
-                <div class="modal-header">
-                    <h5 class="modal-title" id="my-modal-title">Detalles de RegialuSit</h5>
-                    <button class="close" data-dismiss="modal" aria-label="Close">
-                        <span aria-hidden="true">&times;</span>
-                    </button>
-                </div>
-                <div class="modal-body">
-                    <div class="container-fluid" id="servicios">
-                        <div class="dropdown-divider"></div>
-                        <div class="row" id="contacto">
-                            <div class="col-12 col-sm-12 col-md-4 col-lg-4 col-xl-4">
-                                <a style="text-decoration: none;" href="{{ route('principal') }}" class="btn btn-dark" title="Click para ir a REGIALUSIT"> <img src="{{ asset('/imagenes/regi.png') }}" alt="" srcset="" id="regi"> </a>
-                                <div class="dropdown-divider"></div>
-                                <p id="regialu-des">Un Sistema de Gestión de Alumnos es una herramienta informática diseñada para
-                                    facilitar
-                                    la gestión de los
-                                    procesos académicos y administrativos relacionados con los estudiantes en una institución educativa.
-                                    REGIALU SIT (Sistema de Gestión de Alumnos) es un ejemplo de esta herramienta, que puede utilizarse
-                                    en
-                                    instituciones educativas de distintos niveles, desde escuelas primarias hasta Institutos.</p>
-
-                                <a href="{{ route('principal') }}" class="btn btn-success" title="Click para ir a REGIALUSIT">
-                                    <b id="regialu-des2" class="btn btn-success btn-icon-text" title="Click para ir a REGIALUSIT"><i class="ti-world btn-icon-prepend"></i> IR A REGIALU SIT V1.0
-                                    </b>
-                                </a>
-                                <div class="dropdown-divider"></div>
-                                <p id="regialu-des2"> <a href="https://api.whatsapp.com/send?phone=916715991" class="btn btn-primary"><i class="fab fa-whatsapp"></i>Solicitar Usuario Demo Aqui. </a>
-
-                                </p>
-                                <div class="dropdown-divider"></div>
-                                <hr>
-
-                            </div>
-
-                            <div class="col-12 col-sm-12 col-md-8 col-lg-8 col-xl-8" id="contacto">
-                                <div class="card">
-
-                                    <div class="card-body">
-                                        <center>
-                                            <h5>CAPTURAS DE PANTALLA</h5>
-                                        </center>
-                                        <div id="mi-carrusel" class="carousel slide" data-bs-ride="carousel">
-                                            <div class="carousel-inner">
-                                                <div class="carousel-item active">
-                                                    <img src="{{ asset('/imagenes/regialu/1.png') }}" class="d-block " alt="...">
-                                                </div>
-                                                <div class="carousel-item">
-                                                    <img src="{{ asset('/imagenes/regialu/2.png') }}" class="d-block " alt="...">
-                                                </div>
-                                                <div class="carousel-item">
-                                                    <img src="{{ asset('/imagenes/regialu/3.png') }}" class="d-block " alt="...">
-                                                </div>
-                                                <div class="carousel-item">
-                                                    <img src="{{ asset('/imagenes/regialu/4.png') }}" class="d-block " alt="...">
-                                                </div>
-                                            </div>
-                                            <div class="carousel-item">
-                                                <img src="{{ asset('/imagenes/regialu/5.png') }}" class="d-block " alt="...">
-                                            </div>
-                                            <div class="carousel-item">
-                                                <img src="{{ asset('/imagenes/regialu/6.png') }}" class="d-block " alt="...">
-                                            </div>
-                                            <div class="carousel-item">
-                                                <img src="{{ asset('/imagenes/regialu/7.png') }}" class="d-block " alt="...">
-                                            </div>
-                                            <button style="background-color: red;opacity: 10%;" class="carousel-control-prev" type="button" data-bs-target="#mi-carrusel" data-bs-slide="prev">
-                                                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-                                                <span>Anterior</span>
-                                            </button>
-                                            <button style="background-color: red;opacity: 10%;" class="carousel-control-next" type="button" data-bs-target="#mi-carrusel" data-bs-slide="next">
-                                                <span class="carousel-control-next-icon" aria-hidden="true"></span>
-                                                <span>Siguiente</span>
-                                            </button>
-                                        </div>
-                                        <div class="dropdown-divider">
-
-                                        </div>
-                                        <p id="regialu-des">Con Regialu Sit, puedes tener un control completo sobre las áreas, asistencias,
-                                            notas, incidentes, instituciones, periodos, aulas y grupos.
-
-                                            Con el módulo de gestión de áreas, puedes definir y gestionar las áreas de estudio y
-                                            especialización de tus estudiantes . El módulo de asistencias te permite llevar un
-                                            registro detallado de la asistencia de los estudiantes, permitiéndote identificar patrones de
-                                            asistencia y ausentismo. El módulo de notas te permite registrar y mantener un seguimiento de
-                                            las notas de los estudiantes y evaluar su rendimiento.
-                                        </p>
-                                        <p id="regialu-des"> El módulo de incidentes te permite registrar y realizar un seguimiento de los
-                                            incidentes
-                                            relacionados con los estudiantes, incluyendo la disciplina y el comportamiento. El módulo de
-                                            instituciones te permite definir y gestionar las instituciones educativas, incluyendo
-                                            información de contacto y detalles administrativos. El módulo de periodos te permite definir y
-                                            gestionar los diferentes períodos académicos, incluyendo fechas de inicio y fin, así como
-                                            horarios y calendarios. </p>
-                                        <p id="regialu-des"> El módulo de aulas te permite definir y gestionar las diferentes aulas y
-                                            salones de clases, así
-                                            como asignarlas a los diferentes grupos y horarios. El módulo de grupos te permite definir y
-                                            gestionar los diferentes grupos de estudiantes y asignarlos a las diferentes aulas y horarios.
-                                        </p>
-
-                                        <p id="regialu-des"> Con Regialu Sit, tendrás una herramienta completa para gestionar todos los
-                                            aspectos del proceso
-                                            educativo, lo que te permitirá ahorrar tiempo y recursos, así como mejorar la calidad de la
-                                            educación que ofreces a tus estudiantes.</p>
-                                        <p id="regialu-des">En general, REGIALU SIT es una herramienta valiosa para instituciones
-                                            educativas
-                                            que
-                                            buscan mejorar
-                                            la eficiencia y eficacia de sus procesos académicos y administrativos relacionados con los
-                                            estudiantes.</p>
-                                    </div>
-                                </div>
-                                <div class="video-container">
-                                    <center> <iframe width="auto" height="auto" src="https://www.youtube.com/watch?v=16RSCK7Ucx4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
-            </div>
-        </div>
-    </div>
+ 
 
     <!-- core  -->
     <script src="{{asset('johndoe/public_html/assets/vendors/jquery/jquery-3.4.1.js')}}"></script>
