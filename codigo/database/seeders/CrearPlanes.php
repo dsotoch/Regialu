@@ -17,17 +17,17 @@ class CrearPlanes extends Seeder
     {
         planes::create([
             'nombre_plan' => 'BASICO',
-            'precio' => '10',
+            'precio' => '7',
             'estado' => TRUE,
         ]);
         planes::create([
             'nombre_plan' => 'PREMIUN',
-            'precio' => '54.9',
+            'precio' => '40',
             'estado' => TRUE,
         ]);
         planes::create([
             'nombre_plan' => 'VIP',
-            'precio' => '100.9',
+            'precio' => '75',
             'estado' => TRUE,
         ]);
     }

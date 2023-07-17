@@ -139,7 +139,7 @@ $(document).on('click', '#cuenta', function () {
     window.location.href = "/Cuenta/MiCuenta";
 });
 $(document).on('click', '#logout', function () {
-    window.location.href = "/";
+    window.location.href = "/Login/logout";
 });
 $(document).on('click', '#licencias', function () {
     $("#modalPlanes").modal();
