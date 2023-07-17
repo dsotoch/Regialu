@@ -54,7 +54,7 @@ class ControllerUsuarioLogin extends Controller
     public function cerrar_sesion(Request $request)
     {
         Auth::logout();
-        return redirect()->route('regialu');
+        return redirect()->route('/RegialuSit');
     }
     public function vista_registrarse(Request $request)
     {
